@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{24622B1E-4057-A030-E372-363A808CE4B1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../robocode/robots/gma/Melee.java">
+    <Files>
+      <File FileName="../../../../../robocode/robots/gma/Melee.java" Line="69" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="28bea8d5-13c5-48e7-bb37-2fe40c1d3ae2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
