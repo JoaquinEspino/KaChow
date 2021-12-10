@@ -35,7 +35,9 @@ public class EnergySystem : MonoBehaviour
         
         animator.SetBool("isTired", isTired);
         Vector3 move = player.GetComponent<PlayerMovement>().move;
-        Debug.Log(energyState);
+        isHungry = hunger.GetComponent<HungerSystem>().isHungry;
+        isGrumpy = mood.GetComponent<MoodSystem>().isGrumpy;
+        //Debug.Log(energyState);
         if (Mathf.Abs(move.x) > 0 || Mathf.Abs(move.z) > 0)
         {
             isMoving = true;
